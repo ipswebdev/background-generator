@@ -2,7 +2,7 @@
   "name": "live-server",
   "version": "1.0.0",
   "description": "",
-  "main": "colojavascript.js",
+  "main": "index.html",
  
   "dependencies": {
     "gh-pages": "^2.1.0",
